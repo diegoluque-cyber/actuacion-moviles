@@ -30,7 +30,7 @@ fun PantallaPrincipal() {
         verticalArrangement = Arrangement.Center
     ) {
 
-        Text("TITULO DEL PROYECTO DE GIT ")
+        Text("Proyecto Android - Trabajo Colaborativo ")
 
         Text("Trabajo colaborativo")
 
